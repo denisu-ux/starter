@@ -1,8 +1,8 @@
-# Welcome to Nuxt Content Starter
+# Welcome to KATANA89
 
-This is the main page displaying Markdown located at [content/index.md](https://github.com/larbish/starter/blob/content/content/index.md).
+[**KATANA89**](/) merupakan Situs Games Online Popler 2025 Banyak Berkah dengan berbagai jenis games terupdate memberikan fitur bermain terbaik mudah menang dengan winrate 99.8% hari ini.
 
-Move to [about](/about) page.
+![Daftar Katana89](/daftar.gif)
 
 ## Manage your Contents
 
